@@ -1,5 +1,8 @@
-HackerRank SQL Solutions Repository
-Welcome to the HackerRank SQL Solutions Repository! This repository contains solutions to various SQL challenges on HackerRank. Whether you're a beginner looking to learn SQL or an experienced developer honing your skills, you'll find this repository useful for practicing SQL queries and solving problems.
+**HackerRank SQL Solutions Repository**
+
+Welcome to the HackerRank SQL Solutions Repository! 
+This repository contains solutions to various SQL challenges on HackerRank. 
+Whether you're a beginner looking to learn SQL or an experienced developer honing your skills, you'll find this repository useful for practicing SQL queries and solving problems.
 
 Table of Contents
 About HackerRank SQL
