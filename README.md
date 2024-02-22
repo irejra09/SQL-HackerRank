@@ -13,6 +13,7 @@ Table of Contents:
 
 
 **About HackerRank SQL**
+
 HackerRank is a platform that offers a wide range of programming challenges to help developers improve their skills. 
 The SQL domain on HackerRank provides numerous challenges focusing on SQL queries, database management, and data analysis. 
 These challenges cover a variety of topics, including basic SQL operations, advanced queries, and database schema design.
