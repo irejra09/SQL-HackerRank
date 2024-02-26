@@ -8,8 +8,6 @@ honing your skills, you will find this repository useful for practicing SQL quer
 Table of Contents:
 1. About HackerRank SQL
 2. Structure
-3. Contributing
-4. Acknowledgements
 
 
 **About HackerRank SQL**
@@ -21,22 +19,7 @@ These challenges cover a variety of topics, including basic SQL operations,advan
 
 **Structure**
 
-.
-├── Basic Select
-
-  ├── Revising the Select Query 1.sql
-
-  ├── Revising the Select Query 2.sql
-
-  └── ...
-
-├── Advanced Select
-
-│   ├── Occupations.sql
-
-│   ├── Binary Tree Nodes.sql
-
-│   └── ...
-
-└── ...
+1. Basic Select
+2. Aggregation
+...
 
