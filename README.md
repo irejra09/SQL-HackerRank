@@ -8,8 +8,6 @@ honing your skills, you will find this repository useful for practicing SQL quer
 Table of Contents:
 1. About HackerRank SQL
 2. Structure
-3. Contributing
-4. Acknowledgements
 
 
 **About HackerRank SQL**
@@ -17,3 +15,11 @@ Table of Contents:
 HackerRank is a platform that offers a wide range of programming challenges to help developers improve their skills. 
 The SQL domain on HackerRank provides numerous challenges focusing on SQL queries, database management, and data analysis. 
 These challenges cover a variety of topics, including basic SQL operations,advanced queries, and database schema design.
+
+
+**Structure**
+
+1. Basic Select
+2. Aggregation
+...
+
