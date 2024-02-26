@@ -24,11 +24,11 @@ These challenges cover a variety of topics, including basic SQL operations,advan
 .
 ├── Basic Select
 
-│   ├── Revising the Select Query 1.sql
+  ├── Revising the Select Query 1.sql
 
-│   ├── Revising the Select Query 2.sql
+  ├── Revising the Select Query 2.sql
 
-│   └── ...
+  └── ...
 
 ├── Advanced Select
 
